@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>opentracker</id>
+    <version>0.7.0</version>
+    <title>OpenTracker</title>
+    <authors>trippsc2</authors>
+    <projectUrl>https://github.com/trippsc2/OpenTracker</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/trippsc2/OpenTracker/master/OpenTracker/triforce.ico</iconUrl>
+    <tags>opentracker alttpr speedrun alttp</tags>
+    <summary>An open-source cross-platform tracking app for A Link to the Past Randomizer.</summary>
+    <description>An open-source cross-platform tracking app for A Link to the Past Randomizer.</description>
+    <dependencies>
+      <dependency id="chocolatey" />
+      <dependency id="chocolatey-core.extension" />
+      <dependency id="dotnetcore-runtime" version="3.1.5" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+
+  </files>
+</package>
