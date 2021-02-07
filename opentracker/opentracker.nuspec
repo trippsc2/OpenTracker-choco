@@ -11,8 +11,6 @@
     <summary>An open-source cross-platform tracking app for A Link to the Past Randomizer.</summary>
     <description>An open-source cross-platform tracking app for A Link to the Past Randomizer.</description>
     <dependencies>
-      <dependency id="chocolatey" />
-      <dependency id="chocolatey-core.extension" />
       <dependency id="dotnetcore-runtime" version="3.1.5" />
     </dependencies>
   </metadata>
