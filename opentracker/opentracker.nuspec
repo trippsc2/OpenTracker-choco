@@ -6,6 +6,10 @@
     <title>OpenTracker</title>
     <authors>trippsc2</authors>
     <projectUrl>https://github.com/trippsc2/OpenTracker</projectUrl>
+    <docsUrl>https://github.com/trippsc2/OpenTracker</docsUrl>
+    <bugTrackerUrl>https://github.com/trippsc2/OpenTracker/issues</bugTrackerUrl>
+    <packageSourceUrl>https://github.com/trippsc2/OpenTracker-choco</projectUrl>
+    <projectSourceUrl>https://github.com/trippsc2/OpenTracker</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/trippsc2/OpenTracker/master/OpenTracker/triforce.ico</iconUrl>
     <tags>opentracker alttpr speedrun alttp</tags>
     <summary>An open-source cross-platform tracking app for A Link to the Past Randomizer.</summary>
@@ -16,6 +20,5 @@
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
-
   </files>
 </package>
