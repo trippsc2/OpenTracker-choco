@@ -5,13 +5,14 @@
     <version>1.8.1</version>
     <title>OpenTracker</title>
     <authors>trippsc2</authors>
-    <projectUrl>https://github.com/trippsc2/OpenTracker</projectUrl>
+    <projectUrl>https://github.com/trippsc2/OpenTracker/blob/master/README.md</projectUrl>
     <docsUrl>https://github.com/trippsc2/OpenTracker</docsUrl>
     <bugTrackerUrl>https://github.com/trippsc2/OpenTracker/issues</bugTrackerUrl>
     <packageSourceUrl>https://github.com/trippsc2/OpenTracker-choco</packageSourceUrl>
     <projectSourceUrl>https://github.com/trippsc2/OpenTracker</projectSourceUrl>
     <iconUrl>https://raw.githubusercontent.com/trippsc2/OpenTracker/master/OpenTracker/triforce.ico</iconUrl>
     <tags>opentracker alttpr speedrun alttp</tags>
+    <releaseNotes>https://github.com/trippsc2/OpenTracker/releases/tag/1.8.1</releaseNotes>
     <summary>An open-source cross-platform tracking app for A Link to the Past Randomizer.</summary>
     <description>An open-source cross-platform tracking app for A Link to the Past Randomizer.</description>
     <dependencies>
