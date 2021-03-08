@@ -11,6 +11,7 @@
     <packageSourceUrl>https://github.com/trippsc2/OpenTracker-choco</packageSourceUrl>
     <projectSourceUrl>https://github.com/trippsc2/OpenTracker</projectSourceUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/trippsc2/OpenTracker@master/OpenTracker/triforce.ico</iconUrl>
+    <licenseUrl>https://github.com/trippsc2/OpenTracker/blob/master/LICENSE</licenseUrl>
     <tags>opentracker alttpr speedrun alttp</tags>
     <releaseNotes>https://github.com/trippsc2/OpenTracker/releases/tag/1.8.1</releaseNotes>
     <summary>An open-source cross-platform tracking app for A Link to the Past Randomizer.</summary>
