@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>opentracker</id>
-    <version>1.8.2</version>
+    <version>1.8.3</version>
     <title>OpenTracker</title>
     <authors>trippsc2</authors>
     <projectUrl>https://github.com/trippsc2/OpenTracker</projectUrl>
@@ -13,11 +13,11 @@
     <iconUrl>https://cdn.jsdelivr.net/gh/trippsc2/OpenTracker@master/OpenTracker/triforce.ico</iconUrl>
     <licenseUrl>https://github.com/trippsc2/OpenTracker/blob/master/LICENSE</licenseUrl>
     <tags>opentracker alttpr speedrun alttp</tags>
-    <releaseNotes>https://github.com/trippsc2/OpenTracker/releases/tag/1.8.2</releaseNotes>
+    <releaseNotes>https://github.com/trippsc2/OpenTracker/releases/tag/1.8.3</releaseNotes>
     <summary>An open-source cross-platform tracking app for A Link to the Past Randomizer.</summary>
     <description>An open-source cross-platform tracking app for A Link to the Past Randomizer.</description>
     <dependencies>
-      <dependency id="dotnetcore-runtime" version="3.1.5" />
+      <dependency id="dotnet-6.0-runtime" version="6.0.2" />
     </dependencies>
   </metadata>
   <files>
